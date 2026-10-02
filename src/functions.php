@@ -6,3 +6,7 @@ function saludo() {
 function saludoPersonalizado($nombre) {
     return "¡Hola, $nombre!";
 }
+
+function despedida() {
+    return "¡Hasta pronto!";
+}
