@@ -1,1 +1,3 @@
-<?php echo "¡Hola, mundo!"; ?>
+<?php
+require_once 'functions.php';
+echo saludo();
